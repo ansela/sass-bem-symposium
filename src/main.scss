@@ -38,3 +38,21 @@
   border-radius: 50%;
   border: 1px solid darkgray;
 }
+
+.content {
+  border: 1px solid green;
+}
+
+.row {
+  display: flex;
+  padding: 5px;
+  &__item {
+    flex-grow: 1;
+  }
+}
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
