@@ -1,3 +1,40 @@
+@import "colors";
+
 .app {
   font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 5px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.info {
+  font-size: 14px;
+  color: $DARK_BLUE;
+  padding: 5px;
+  border: 1px solid $DARK_BLUE;
+}
+
+.button {
+  border: 1px solid darkgray;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.link {
+  color: #8b0000;
+  text-decoration: underline;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.image {
+  border-radius: 50%;
+  border: 1px solid darkgray;
 }

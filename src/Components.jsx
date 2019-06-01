@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div className="app">
       <div className="title">Our Sass-BEM app</div>
+
       <div className="info">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed augue ex,
         aliquam pharetra faucibus in, fermentum vel nibh. Ut ipsum velit,
