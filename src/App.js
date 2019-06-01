@@ -11,7 +11,7 @@ const App = () => {
           <div className="card">
             <div className="card__title">
               <div className="title title--no-margin title--white">
-                The First Card of Many
+                The Fellowship of the Cards
               </div>
             </div>
             <div className="card__content">
@@ -57,7 +57,7 @@ const App = () => {
           <div className="card">
             <div className="card__title">
               <div className="title title--no-margin title--white">
-                The First Card of Many
+                The Two Cards
               </div>
             </div>
             <div className="card__content">
@@ -103,7 +103,7 @@ const App = () => {
           <div className="card">
             <div className="card__title">
               <div className="title title--no-margin title--white">
-                The First Card of Many
+                The Return of the Card
               </div>
             </div>
             <div className="card__content">
