@@ -81,7 +81,7 @@ const App = () => {
             </div>
             <div className="card__title card__title--reverse">
               <div className="title title--no-margin title--white">
-                The Return of the Cards
+                The Return of the Card
               </div>
             </div>
           </div>
